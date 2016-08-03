@@ -1,5 +1,32 @@
-Link junks-
+PYTHON--
 
-Projects from DIY/Reddit/Imgur
+https://www.fullstackpython.com/ -- Good python resource
+https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8#.m1e8h4rtb -- free python e-books
+
+
+TECH STUFF-- 
+
+https://www.railstutorial.org/book/frontmatter -- Ruby on Rails resource
+https://drive.google.com/drive/folders/0BztLOG55I2FVT0NNLTVXM1JOYlk -- some dudes programming links and junk
+http://tutorialzine.com/2016/06/learn-git-in-30-minutes/ -- Learn Git in 30 mins
+https://www.reddit.com/r/learnprogramming/comments/4u2551/hackathon_starter_i_wish_i_found_this_earlier_im/ -- Programming resource
+
+PROJECTS from DIY/Reddit/Imgur--
 
 http://imgur.com/a/q8Vv4  --A magic mirror powered by a raspberry pi
+https://syonyk.blogspot.com/2016/07/solar-shed-summary-my-off-grid-office.html -- Off the grid Tuff shed Office solar project
+https://www.dataquest.io/blog/apartment-finding-slackbot/ -- Basis for CL Scraper
+http://imgur.com/a/Q2RAd -- Nutty-ass rasp pi light orb art thingy
+http://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192 -- See link query
+
+COOL WEBSITES--
+
+http://www.cinesift.com/#/  -- movie sifter, filter by spreaming option, pulled from top reviewed sites
+http://www.jeffbuckleycollection.com/ -- Jeff Buckley's interactive record collection
+http://rick_oleson.tripod.com/calc.gif -- Pocket light camera card
+http://jas-townsend.com/axes-knives-tomahawks-c-76_20.html -- Old school blacksmith axes 
+http://www.theverge.com/2016/7/14/12187296/nintendo-nes-classic-edition-announced-price-games -- Old school NES console to buy
+
+
+
+
