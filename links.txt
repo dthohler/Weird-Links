@@ -1,5 +1,6 @@
 PYTHON--
 
+REGEX TESTER- http://www.regexpal.com/
 https://www.fullstackpython.com/ -- Good python resource
 https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8#.m1e8h4rtb -- free python e-books
 
