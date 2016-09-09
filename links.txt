@@ -7,6 +7,7 @@ https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0
 
 TECH STUFF-- 
 
+https://www.freecodecamp.com/en/ - front end dev stuff
 https://www.railstutorial.org/book/frontmatter -- Ruby on Rails resource
 https://drive.google.com/drive/folders/0BztLOG55I2FVT0NNLTVXM1JOYlk -- some dudes programming links and junk
 http://tutorialzine.com/2016/06/learn-git-in-30-minutes/ -- Learn Git in 30 mins
